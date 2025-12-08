@@ -1,11 +1,10 @@
 //
-//  AppDelegate.swift
-//  GoodAsOldPhones
+//  
+//  
 //
-//  Copyright © 2016 Code School. All rights reserved.
+//  
 //
-// Distributed by code-projects.org
-import UIKit
+// 
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
