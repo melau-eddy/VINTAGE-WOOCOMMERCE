@@ -1,4 +1,4 @@
-//
+// 
 //  Product.swift
 //  GoodAsOldPhones
 //
