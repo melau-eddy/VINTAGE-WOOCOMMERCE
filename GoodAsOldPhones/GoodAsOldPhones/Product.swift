@@ -17,4 +17,4 @@ class Product {
     self.cellImageName = cellImageName
     self.fullscreenImageName = fullscreenImageName
   }
-}
+} 
